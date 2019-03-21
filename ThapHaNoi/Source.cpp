@@ -7,6 +7,8 @@ using namespace std;
 
 vector<int> arr;
 
+// chinh sua duoc up len
+
 SDL_Window* window = NULL;
 SDL_Renderer* renderer = NULL;
 
