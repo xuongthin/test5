@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\t450\source\repos\thaphanoi\thaphanoi\source.cpp(35): warning C4101: 'n': unreferenced local variable
+  ThapHaNoi.vcxproj -> C:\Users\T450\source\repos\ThapHaNoi\Debug\ThapHaNoi.exe
